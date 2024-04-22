@@ -1,4 +1,4 @@
-<h1 align="centre">🎵 Kyy-Music 🎵</h1>
+<h1 align="centre">🎵 بوت اغاني ابو صكر🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
