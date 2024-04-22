@@ -5,7 +5,7 @@
 ### Available on telegram as [KYYMUSIC](https://t.me/kyymusic_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/aa0f75f4d4b6519ccd19e.jpg">
+  <img src="https://telegra.ph/file/7cf0196f135b978d6fbd3.jpg">
 </p>
 <h2> Features </h2>
 
@@ -60,7 +60,7 @@ Get pyrogram (p)  `SESSION` from here:
 + Sudo Users can execute any command in any groups
 
 ### OWNER
-- [KYY](https://t.me/sokapgblg)
+- [KYY](https://t.me/JJJJZO)
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
